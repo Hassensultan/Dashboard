@@ -648,6 +648,18 @@ ul {
 
 }
 
+@media (max-width:767px) {
+
+  .latest-news .news-row img {
+
+    margin-right: 0;
+
+    margin-bottom: 10px;
+
+  }
+  
+}
+
 .latest-news .info {
 
   flex-grow: 1;
